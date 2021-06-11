@@ -1,5 +1,5 @@
 Bonjour,
 
-Bienvenue dans mon preùier projet git.
+Bienvenue dans mon premier projet git.
 
 Petite modification depuis github ;)
